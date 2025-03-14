@@ -13,7 +13,6 @@ class _pointsCounterState extends State<pointsCounter> {
   int teamAPoints = 0;
 
   int teamBPoints = 0;
-
   void addOnePoint() {
     print('add one point');
   }
